@@ -1,0 +1,94 @@
+.herbLeft {
+    height: 170px;/*180 600*/
+    width: 500px;
+    display: inline;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+.herbRight {
+    height: 170px;
+    width: 500px;
+    display: inline;
+    right: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+.header h1 {
+    white-space: pre-line;
+    font-family: 'Chonburi', cursive;
+    font-family: 'Mali', cursive;
+    font-size: 250%;
+    /* margin: center; */
+    display: inline;
+    left: 620px;
+    top: 40px;
+    position: relative;
+    padding: 5px;
+    line-height: 1.5;
+}
+
+.par1 {
+    /* white-space: pre-line; */
+    font-family: 'Chonburi', cursive;
+    font-family: 'Mali', cursive;
+    font-size: 70%;
+    border-radius: 10px;
+    background-color: #E5C8C3;
+    margin: auto;
+    width: 70%;
+    margin-top: 80px;
+    text-align: center;
+    padding: 5px;
+    line-height: 1.5;
+}
+
+.par2 {
+    /* white-space: pre-line; */
+    font-family: 'Chonburi', cursive;
+    font-family: 'Mali', cursive;
+    font-size: 80%;
+    position: relative;
+    text-align: center;
+}
+
+.herb img {
+    border-radius: 50%;
+    width: 230px;
+    height: 230px;
+    padding: 20px;
+}
+
+/* .par3 {
+    white-space: pre-line;
+    font-family: 'Chonburi', cursive;
+    font-family: 'Mali', cursive;
+    font-size: 80%;
+    width: 700px;
+    left: 600px;
+    top: 10px;
+    margin-left: 700px;
+    margin-top: 0px;
+    position: relative;
+    border-radius: 10px;
+    background-color: #C3C4B6;
+} */
+.par3{
+    white-space: pre-line;
+    width: 1200px;
+    font-size: 120%;
+    border-radius: 10px;
+    background-color: #C3C4B6;
+    text-align: center;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.7;   
+}
+
+.website{
+    white-space: pre-line;
+    font-size: 100%;
+}
